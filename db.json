@@ -6,8 +6,8 @@
     	"description": "Unique stones created by GAN",
     	"external_url": "https://en.wikipedia.org/wiki/Generative_adversarial_network",
     	"image": "https://gateway.pinata.cloud/ipfs/QmX8MGqK1vU6NoVqtBzP3AjwJYGHUzgDMPLCXDhRSgHKoP",
-    	"name": "Reflectant Steel Stones"
-	"attributes": [
+    	"name": "Reflectant Steel Stones",
+		"attributes": [
     		{
       			"trait_type": "Material", 
       			"value": "Steel"
@@ -33,7 +33,7 @@
       			"display_type": "boost_percentage", 
       			"trait_type": "Stamina Increase", 
       			"value": 10
-    		}, 
+    		} 
   		]
   	},
   	{
@@ -41,8 +41,8 @@
     	"description": "Unique stones created by GAN",
     	"external_url": "https://en.wikipedia.org/wiki/Generative_adversarial_network",
     	"image": "https://gateway.pinata.cloud/ipfs/QmfDzx6vZxS1iUJZHje9wAZg1NBim2WzWySYN9nkxbkqva",
-    	"name": "Freezing Blue Stones"
-	"attributes": [
+    	"name": "Freezing Blue Stones",
+		"attributes": [
     		{
       			"trait_type": "Material", 
       			"value": "Ice"
@@ -68,7 +68,7 @@
       			"display_type": "boost_percentage", 
       			"trait_type": "Stamina Increase", 
       			"value": 20
-    		}, 
+    		} 
   		]
   	},
   	{
@@ -76,8 +76,8 @@
     	"description": "Unique stones created by a GAN",
     	"external_url": "https://en.wikipedia.org/wiki/Generative_adversarial_network",
     	"image": "https://gateway.pinata.cloud/ipfs/QmW1ZnY5e2JBHTu6rQFoj9btP8uHCZeDFTgbiT8aoa66mY",
-    	"name": "Atom Painting Fantasy Stones"
-	"attributes": [
+    	"name": "Atom Painting Fantasy Stones",
+		"attributes": [
     		{
       			"trait_type": "Material", 
       			"value": "Steel"
